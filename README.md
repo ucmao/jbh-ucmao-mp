@@ -135,12 +135,22 @@ jbh-ucmao-mp/
 
 ---
 
+## 📩 联系作者
+
+如果您在安装、使用过程中遇到问题，或有定制需求，请通过以下方式联系：
+
+* **微信 (WeChat)**：csdnxr
+* **QQ**：294323976
+* **邮箱 (Email)**：leoucmao@gmail.com
+* **Bug反馈**：[GitHub Issues](https://github.com/ucmao/jbh-ucmao-mp/issues)
+
+---
+
 ## ⚖️ 开源协议 & 免责声明
 
 1. 本项目基于 **[MIT LICENSE](LICENSE)** 协议开源。
 2. **免责声明**：本项目主要用于学习交流。请确保在生产环境中使用 HTTPS 安全域名，并妥善管理后端 API 访问权限。
 
----
-
 **记宝盒** - 让资产管理更简单！ 📦💼✨
-[提交 Bug](https://www.google.com/search?q=https://github.com/ucmao/jbh-ucmao-mp/issues) | [联系作者](mailto:leoucmao@gmail.com)
+
+---
